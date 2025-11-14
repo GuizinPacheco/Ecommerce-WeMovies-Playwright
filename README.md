@@ -6,7 +6,7 @@ Este repositório contém testes automatizados para o projeto WeMovies, um e-com
 
 Após clonar o repositório, basta executar o comando:
 
-npx playwright test
+npm run e2e
 
 
 Este comando executará todos os testes agrupados em uma única rotina:
