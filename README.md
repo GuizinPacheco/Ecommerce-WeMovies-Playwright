@@ -1,6 +1,6 @@
-# Ecommerce-WebMovies-Playwright
+# Ecommerce-WeMovies-Playwright
 
-Este repositório contém testes automatizados para o projeto WebMovies, um e-commerce de filmes. O WebMovies permite que os usuários naveguem pela lista de filmes, adicionem itens ao carrinho e realizem a experiência completa de compra.
+Este repositório contém testes automatizados para o projeto WeMovies, um e-commerce de filmes. O WeMovies permite que os usuários naveguem pela lista de filmes, adicionem itens ao carrinho e realizem a experiência completa de compra.
 
 ##  Como rodar os testes
 
