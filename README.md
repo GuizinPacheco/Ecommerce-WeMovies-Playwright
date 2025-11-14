@@ -4,3 +4,11 @@ O repositório se destina a testar o projeto WebMovies. O projeto Web Movies rea
 
 
 Basta rodar: npx playwright test
+
+Este único comando será responsável por rodar os três testes solicitados agrupados em um única rotina: 
+•	Validação do fluxo completo Desktop
+•	Validação do fluxo completo Mobile
+•	Validação de teste regressivo
+
+Teste adicional incluído:
+•	Validação Desktop de dois navegadores: Chrome e Edge.
